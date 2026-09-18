@@ -23,8 +23,10 @@ Aplicativo mobile desenvolvido para cadastro e gerenciamento local de pessoas, c
 ---
 
 ## Prints
-
-
+![splash](prints/splash.png)
+![home](prints/home.png)
+![cadastro](prints/cadastro.png)
+![menu](prints/menu.png)
 ---
 
 ## Download do Arquivo `.APK`
